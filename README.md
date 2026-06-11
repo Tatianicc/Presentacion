@@ -6,7 +6,9 @@ curso programación para videojuegos, actividad numero 1
 <img src="Tatiana%20Hernandez/Tatiana.jpeg" width="400">
 
 **Rol en la industria:** Diseñadora
+
 **Ubicación:** Bogotá D.C.
+
 **Perfil:** Diseñadora UI/UX con conocimientos en modelado 3D y texturizado, especializada en los programas de Blender y Figma.
 
 **Plato favorito:** Hamburguesa
