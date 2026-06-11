@@ -3,7 +3,7 @@ curso programación para videojuegos, actividad numero 1
 
 **Tatiana Lorena Hernández González**
 ![Tatiana](Tatiana%20Hernandez/Tatiana.jpeg)
-<img src="C:\Users\Stu Hernandez\Documents\GitHub\Presentacion\Tatiana.jpeg" width="400">
+<img src="Tatiana%20Hernandez/Tatiana.jpeg" width="400">
 
 **Rol en la industria:** Diseñadora
 **Ubicación:** Bogotá D.C.
