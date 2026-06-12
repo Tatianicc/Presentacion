@@ -1,5 +1,5 @@
 # Presentacion
-curso programación para videojuegos, actividad numero 1
+Etapa 1 - Reconocimiento del entorno y armado de equipos con SCV
 
 **Tatiana Lorena Hernández González**
 
