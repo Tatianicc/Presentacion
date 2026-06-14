@@ -14,5 +14,5 @@ Etapa 1 - Reconocimiento del entorno y armado de equipos con SCV
 **Plato favorito:** Perro Caliente
 
 <img src="" width="400">
-<img width="1000" height="1000" alt="Perro-Caliente" src="https://github.com/user-attachments/assets/3d9f929c-afc3-4e72-aeda-f2a66cbde473" />
+<img width="400" height="400" alt="Perro-Caliente" src="https://github.com/user-attachments/assets/3d9f929c-afc3-4e72-aeda-f2a66cbde473" />
 
